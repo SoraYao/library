@@ -1,0 +1,91 @@
+#search-nav{
+    height:100px;
+    position: relative;
+    background: #f6f6f1
+
+}
+#search-bottom{
+    width:800px;
+    position:absolute;
+    left:660px;
+    top:20px;
+
+}
+#search-nav .nav-logo{
+    float: left;
+    
+
+}
+
+#search-nav .nav-search{
+    float: left;
+    margin-top: 10px;
+
+
+}
+#search-nav .search-submit{
+    background: #29e;
+    display: inline-block;
+    margin: 0 auto;
+    top:2px;
+    width: 60px;
+    font-size: 16px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #fff;
+    border:none 0;
+    border-radius: 2px;
+    position: relative;
+    cursor: pointer;
+
+
+}
+#search-nav #regHeadInfo{
+    height: 30px;
+    width: 500px;
+    outline: none;
+    border:0;
+    border-bottom: 1px solid #ddd;
+
+
+}
+
+#content{
+    width: 950px;
+    margin-top: 20px;
+    position: absolute;
+    left: 680px;
+    font-size: 10px;
+    text-align: left;
+}
+#content .trr{
+    width: 650px;
+    text-align: right;
+
+
+}
+
+#content .subject-list{
+    width: 650px;
+    padding:20px 0 10px;
+
+
+}
+
+#content .subject-list h2{
+    font-size: 14px;
+
+
+}
+#content .subject-item{
+    height: 200px;
+    border-top: 1px dashed #cccccc;
+}
+
+
+#content .pic{
+    float: left;
+    margin-right: 20px;
+    padding-top: 5px;
+}
